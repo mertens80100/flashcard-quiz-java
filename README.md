@@ -1,2 +1,10 @@
 # flashcard-quiz-java
-Console-based Flashcard and Quiz study application in Java
+
+A simple console-based flashcard study and quiz app in Java. Flashcards are saved in `cards.txt`.
+
+## Run
+
+```bash
+javac *.java
+java Main
+```
